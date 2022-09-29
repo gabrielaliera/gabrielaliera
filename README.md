@@ -8,7 +8,7 @@
 <ul>
   <li>🔭 I’m a Computer Programming and Computer Science student at Mount San Antonio College!</li>
   <li>🌱 I’m currently learning about Data Structures and Algorithms.</li>
-  <li>⚡ Fun fact: I lived in Australia and South East Asia from 2016-2020.</li>
+  <li>⚡ Fun fact: I lived in Australia and Southeast Asia from 2016-2020.</li>
  </ul>
 
 ## Technologies and Tools
