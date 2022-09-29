@@ -1,4 +1,4 @@
-# Hi there, I'm Gaby Liera 👋<img src="https://raw.githubusercontent.com/gabrielaliera/gabrielaliera/master/wave.gif" width="30px">
+# Hi there, I'm Gaby Liera <img src="https://raw.githubusercontent.com/gabrielaliera/gabrielaliera/master/wave.gif" width="30px">
 
 <a href="https://www.linkedin.com/in/gabrielaliera/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:gliera2990@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
@@ -50,5 +50,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: I lived in Australia and South East Asia from 2016-2020
-👋
+👋👋
 -->
