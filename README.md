@@ -1,17 +1,21 @@
 # Hi there, I'm Gaby Liera <img src="https://raw.githubusercontent.com/gabrielaliera/gabrielaliera/master/wave.gif" width="30px">
 
+
+
+# ⚡ A quick introduction
+<ul>
+  <li>🔭 I’m a Computer Programming and Computer Science student at Mount San Antonio College!</li>
+  <li>🌱 I’m currently learning Kotlin and Android Development.</li>
+  <li>:smile: Fun-Fact: I lived in Australia and Southeast Asia from 2016-2020.</li>
+ </ul>
+ 
+ # :handshake: Connect, Follow
 <a href="https://www.linkedin.com/in/gabrielaliera/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:gliera2990@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://www.hackerrank.com/gliera2990"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" /></a>
 <br>
 
-<ul>
-  <li>🔭 I’m a Computer Programming and Computer Science student at Mount San Antonio College!</li>
-  <li>🌱 I’m currently learning Kotlin and Android Development.</li>
-  <li>⚡ Fun fact: I lived in Australia and Southeast Asia from 2016-2020.</li>
- </ul>
-
-## Technologies and Tools
+## Languages, Frameworks and Tools
 <div styles="display:flex">
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
 <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
@@ -35,6 +39,13 @@
 <img src="https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white" />
 <img src="https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white" />
 <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
+
+
+# Stats
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielaliera&layout=compact)](https://github.com/gabrielaliera/github-readme-stats)
+  
+  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielaliera&layout=compact&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28)
 </div>
 <!--Hello -->
 <!--
