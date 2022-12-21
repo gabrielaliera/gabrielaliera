@@ -7,7 +7,7 @@
 
 <ul>
   <li>🔭 I’m a Computer Programming and Computer Science student at Mount San Antonio College!</li>
-  <li>🌱 I’m currently learning about Data Structures and Algorithms.</li>
+  <li>🌱 I’m currently learning Kotlin and Android Development.</li>
   <li>⚡ Fun fact: I lived in Australia and Southeast Asia from 2016-2020.</li>
  </ul>
 
