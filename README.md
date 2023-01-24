@@ -43,9 +43,9 @@
 
 
 ## :chart_with_upwards_trend:Stats 
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielaliera&layout=compact&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28)](https://github.com/gabrielaliera/github-readme-stats)
+ [![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=gabrielaliera&layout=compact&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28)](https://github.com/gabrielaliera/github-readme-stats)
  <br> 
- [![My GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=gabrielaliera&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/gabrielaliera/github-readme-stats#gh-dark-mode-only)
+ [![My GitHub stats-Light](https://github-readme-stats-sigma-five.vercel.app/api?username=gabrielaliera&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/gabrielaliera/github-readme-stats#gh-dark-mode-only)
 
   
 ![Profile Views](https://komarev.com/ghpvc/?username=gabrielaliera)
@@ -55,6 +55,13 @@
 
 <!--Hello -->
 <!--
+
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielaliera&layout=compact&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28)](https://github.com/gabrielaliera/github-readme-stats)
+ <br> 
+ [![My GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=gabrielaliera&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/gabrielaliera/github-readme-stats#gh-dark-mode-only)
+
+
+
 **gabrielaliera/gabrielaliera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 [![My GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=gabrielaliera&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/gabrielaliera/github-readme-stats#gh-light-mode-only)
 Here are some ideas to get you started:
