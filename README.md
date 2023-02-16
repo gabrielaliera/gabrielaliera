@@ -5,7 +5,7 @@
 ## ⚡ A quick introduction
 <ul>
   <li>🔭 I completed a computer programming A.A from Mt. San Antonio College!</li>
-  <li>🌱 I’m currently learning Android Development and React and serving as a Tech Fellow Codepath's Advance Web Development course.</li>
+  <li>🌱 I’m currently learning Android Development, React and serving as a Tech Fellow Codepath's Advance Web Development course.</li>
   <li> 😄 Pronouns: She/Her
   <li>:airplane: Fun-Fact: I lived in Australia and Southeast Asia from 2016-2020.</li>
  </ul>
