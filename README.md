@@ -4,8 +4,8 @@
 
 ## ⚡ A quick introduction
 <ul>
-  <li>🔭 I’m a Computer Science student at Mount San Antonio College!</li>
-  <li>🌱 I’m currently learning Kotlin and Android Development.</li>
+  <li>🔭 I’m a completed my computer programming A.A from Mt. San Antonio College!</li>
+  <li>🌱 I’m currently learning Android Development and React.</li>
   <li> 😄 Pronouns: She/Her
   <li>:airplane: Fun-Fact: I lived in Australia and Southeast Asia from 2016-2020.</li>
  </ul>
