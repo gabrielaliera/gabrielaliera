@@ -1,4 +1,4 @@
-# Hi there, I'm Gaby Liera <img src="https://raw.githubusercontent.com/gabrielaliera/gabrielaliera/master/wave.gif" width="30px">
+<h1 align="center"> Hi there, I'm Gaby Liera <img src="https://raw.githubusercontent.com/gabrielaliera/gabrielaliera/master/wave.gif" width="30px"></h1>
 
 
 
@@ -47,11 +47,10 @@
  
 
 ## :chart_with_upwards_trend:Stats 
- [![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=gabrielaliera&layout=compact&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28)](https://github.com/gabrielaliera/github-readme-stats)
- <br> 
- [![My GitHub stats-Light](https://github-readme-stats-sigma-five.vercel.app/api?username=gabrielaliera&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/gabrielaliera/github-readme-stats#gh-dark-mode-only)
 
-  
+![gabrielaliera's Stats](https://github-readme-stats.vercel.app/api?username=gabrielaliera&theme=slateorange&show_icons=true&hide_border=true&count_private=true)
+![gabrielaliera's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielaliera&hide=jupyternotebook,java&theme=slateorange&show_icons=true&hide_border=true&layout=compact) 
+
 ![Profile Views](https://komarev.com/ghpvc/?username=gabrielaliera)
 </div>
 
