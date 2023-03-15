@@ -49,7 +49,7 @@
 ## :chart_with_upwards_trend:Stats 
 
 ![gabrielaliera's Stats](https://github-readme-stats.vercel.app/api?username=gabrielaliera&theme=slateorange&show_icons=true&hide_border=true&count_private=true)
-![gabrielaliera's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielaliera&hide=jupyternotebook,java&theme=slateorange&show_icons=true&hide_border=true&layout=compact) 
+![gabrielaliera's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielaliera&hide=jupyter%20notebook&theme=slateorange&show_icons=true&hide_border=true&exclude_repo=DataStructures_Algorithms_Class&layout=compact) 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=gabrielaliera)
 </div>
