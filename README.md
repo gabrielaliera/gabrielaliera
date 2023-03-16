@@ -1,8 +1,5 @@
 <h1 align="center"> Hi there, I'm Gaby Liera <img src="https://raw.githubusercontent.com/gabrielaliera/gabrielaliera/master/wave.gif" width="30px"></h1>
 
-
-
-## ⚡ A quick introduction
 <ul>
   <li>🔭 I completed a computer programming A.A from Mt. San Antonio College!</li>
   <li>🌱 I’m currently learning Android Development, React and serving as a Tech Fellow Codepath's Intermediate Web Development course.</li>
@@ -10,9 +7,8 @@
   <li>:airplane: Fun-Fact: I lived in Australia and Southeast Asia from 2016-2020.</li>
  </ul>
  
-## :handshake: Connect
-<a href="https://www.linkedin.com/in/gabrielaliera/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<br>
+<h2>Connect with me:</h2> <a href="https://www.linkedin.com/in/gabrielaliera/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gabrielaliera LinkedIn" height="30" width="40" /></a>
+
 
 ## :hammer_and_wrench: Languages
 <div styles="display:flex">
@@ -42,26 +38,20 @@
 <img src="https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white" />
 <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
 
- 
-
 ## :chart_with_upwards_trend:Stats 
 
-![gabrielaliera's Stats](https://github-readme-stats.vercel.app/api?username=gabrielaliera&theme=slateorange&show_icons=true&hide_border=true&count_private=true)
-![gabrielaliera's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielaliera&hide=jupyter%20notebook&theme=slateorange&show_icons=true&hide_border=true&exclude_repo=DataStructures_Algorithms_Class&layout=compact) 
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=gabrielaliera&theme=react&show_icons=true&hide_border=false&count_private=true" alt="gabrielalier commit stats"/>
+</p>
+<p>
+ <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielaliera&hide=jupyter%20notebook&theme=react&show_icons=true&hide_border=false&exclude_repo=DataStructures_Algorithms_Class&layout=compact" alt="gabrielaliera top languages"/>
+</p>
+<br/>  
 
-![Profile Views](https://komarev.com/ghpvc/?username=gabrielaliera)
-</div>
+ ![Profile Views](https://komarev.com/ghpvc/?username=gabrielaliera)
 
 
-
-<!--Hello -->
 <!--
-
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielaliera&layout=compact&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28)](https://github.com/gabrielaliera/github-readme-stats)
- <br> 
- [![My GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=gabrielaliera&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/gabrielaliera/github-readme-stats#gh-dark-mode-only)
-
-
 
 **gabrielaliera/gabrielaliera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 [![My GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=gabrielaliera&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/gabrielaliera/github-readme-stats#gh-light-mode-only)
