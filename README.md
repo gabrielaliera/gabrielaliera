@@ -1,11 +1,18 @@
 <h1 align="center"> Hi there, I'm Gaby Liera <img src="https://raw.githubusercontent.com/gabrielaliera/gabrielaliera/master/wave.gif" width="30px"></h1>
 
-<ul>
-  <li>🔭 I completed a computer programming A.A from Mt. San Antonio College!</li>
-  <li>🌱 I’m currently learning Android Development, React and serving as a Tech Fellow Codepath's Intermediate Web Development course.</li>
-  <li> 😄 Pronouns: She/Her
-  <li>:airplane: Fun-Fact: I lived in Australia and Southeast Asia from 2016-2020.</li>
- </ul>
+🔭 I'm a career pivoter and recently completed a computer programming A.A from Mt. San Antonio College. <br>
+
+🌱 I’m currently serving as a Tech Fellow for Codepath where I peer mentor students on web development and intereview prep concepts. <br>
+
+💖 I am passoniate about helping underrepresented and non-traditional talent find their place in Tech.<br>
+
+💻 I'm interested in solving challenging problems and building things that help connect people. <br>
+
+☎️ I'm passionate about Android and Mobile Development. <br>
+
+😄 Pronouns: She/Her <br>
+
+:airplane: Fun-Fact: I lived in Australia and Southeast Asia from 2016-2020.
  
 <h2>Connect with me:</h2> <a href="https://www.linkedin.com/in/gabrielaliera/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gabrielaliera LinkedIn" height="30" width="40" /></a>
 
