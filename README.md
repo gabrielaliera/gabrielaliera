@@ -1,14 +1,14 @@
 <h1 align="center"> Hi there, I'm Gaby Liera <img src="https://raw.githubusercontent.com/gabrielaliera/gabrielaliera/master/wave.gif" width="30px"></h1>
 
-🔭 I'm a career pivoter and recently completed a computer programming A.A from Mt. San Antonio College. <br>
+🔭 I am a career pivoter passionate about **Android and Mobile Development**. <br>
 
-🌱 I’m currently serving as a Tech Fellow for Codepath where I peer mentor students on web development and intereview prep concepts. <br>
+🌱 This summer, I’m serving as a [CodePath Tech Fellow](https://www.codepath.org/tech-fellow-program) where I peer mentor students on solving intereview questions using data structures like graphs, stacks, queue, hashmap, etc <br>
 
-💖 I am passoniate about helping underrepresented and non-traditional talent find their place in Tech.<br>
+🏗️ Addition, I am [MLH Fellow/Intern](https://fellowship.mlh.io/programs/site-reliability-engineering) for the Site Reliability Engineering track where I'm learning about testing, containers, CI/CD, monitoring and other DevOps tools while contributing to open source.
 
-💻 I'm interested in solving challenging problems and building things that help connect people. <br>
+💖 I am deeply passionate about empowering underrepresented and non-traditional talent to discover their rightful place in the field of technology.<br>
 
-☎️ I'm passionate about Android and Mobile Development. <br>
+💻 I am drawn to the pursuit of tackling complex problems and constructing solutions that foster meaningful connections among people.<br>
 
 😄 Pronouns: She/Her <br>
 
@@ -20,30 +20,33 @@
 ## :hammer_and_wrench: Languages
 <div styles="display:flex">
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+<img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white" />
 <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
+ <br>
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+
 
 ## :hammer_and_wrench: Frameworks and Libraries
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 <img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white"/>
 <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" />
 <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
 <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
-<img src ="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+
   
 ## :hammer_and_wrench: Tools/Other
+<img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
+<img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" />
 <img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" />
+<br>
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 <img src="https://img.shields.io/badge/VirtualBox-21416b?style=for-the-badge&logo=VirtualBox&logoColor=white" />
 <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
-<img src="https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=Apache&logoColor=white" />
+<br>
 <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" />
 <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white" />
-<img src="https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white" />
-<img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
 
 ## :chart_with_upwards_trend:Stats 
 
