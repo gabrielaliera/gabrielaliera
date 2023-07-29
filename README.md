@@ -4,7 +4,7 @@
 
 🌱 This summer, I’m serving as a [CodePath Tech Fellow](https://www.codepath.org/tech-fellow-program) where I peer mentor students on solving intereview questions using data structures like graphs, stacks, queue, hashmap, etc <br>
 
-🏗️ Addition, I am [MLH Fellow/Intern](https://fellowship.mlh.io/programs/site-reliability-engineering) for the Site Reliability Engineering track where I'm learning about testing, containers, CI/CD, monitoring and other DevOps tools while contributing to open source.
+🏗️ Additionly, I am [MLH Fellow/Intern](https://fellowship.mlh.io/programs/site-reliability-engineering) for the Site Reliability Engineering track where I'm learning about testing, containers, CI/CD, monitoring and other DevOps tools while contributing to open source.
 
 💖 I am deeply passionate about empowering underrepresented and non-traditional talent to discover their rightful place in the field of technology.<br>
 
