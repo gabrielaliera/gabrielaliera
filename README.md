@@ -1,10 +1,10 @@
 <h1 align="center"> Hi there, I'm Gaby Liera <img src="https://raw.githubusercontent.com/gabrielaliera/gabrielaliera/master/wave.gif" width="30px"></h1>
 
-🔭 I am a career pivoter passionate about **Android and Mobile Development**. <br>
+🔭 I am a career-changer & *mostly* self-taught programmer who pivoted from education & hospitality to technology via a non-traditional course of degrees, coursework, & certifications. <br>
 
-🌱 This summer, I’m serving as a [CodePath Tech Fellow](https://www.codepath.org/tech-fellow-program) where I peer mentor students on solving intereview questions using data structures like graphs, stacks, queue, hashmap, etc <br>
+🌱 This summer, I am [MLH Fellow/Intern](https://fellowship.mlh.io/programs/site-reliability-engineering) in the Site Reliability Engineering track where I'm building a project that incorporates scripting, testing, containers, CI/CD, monitoring and other DevOps tools.<br>
 
-🏗️ Additionly, I am [MLH Fellow/Intern](https://fellowship.mlh.io/programs/site-reliability-engineering) for the Site Reliability Engineering track where I'm learning about testing, containers, CI/CD, monitoring and other DevOps tools while contributing to open source.
+🏗️ Additionly, I’m serving as a [CodePath Tech Fellow](https://www.codepath.org/tech-fellow-program) where I peer mentor students on solving intereview questions using data structures like graphs, stacks, queue, hashmap, dynamic programming, etc <br>
 
 💖 I am deeply passionate about empowering underrepresented and non-traditional talent to discover their rightful place in the field of technology.<br>
 
@@ -22,6 +22,7 @@
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
 <img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white" />
 <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
+ <img src="https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white" />
  <br>
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -30,10 +31,12 @@
 
 ## :hammer_and_wrench: Frameworks and Libraries
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
 <img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white"/>
 <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" />
 <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+
 
   
 ## :hammer_and_wrench: Tools/Other
@@ -47,6 +50,9 @@
 <br>
 <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" />
 <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
+
 
 ## :chart_with_upwards_trend:Stats 
 
