@@ -1,6 +1,6 @@
 <h1 align="center"> Hi there, I'm Gaby Liera <img src="https://raw.githubusercontent.com/gabrielaliera/gabrielaliera/master/wave.gif" width="30px"></h1>
 
-🔭 I am a career-changer & *mostly* self-taught programmer who pivoted from education & hospitality to technology via a non-traditional course of degrees, coursework, & certifications. <br>
+🔭 I am a career-changer & *mostly* self-taught programmer who pivoted from international education to technology via a non-traditional course of degrees, coursework, & certifications. <br>
 
 🌱 This summer, I am [MLH Fellow/Intern](https://fellowship.mlh.io/programs/site-reliability-engineering) in the Site Reliability Engineering track where I'm building a project that incorporates scripting, testing, containers, CI/CD, monitoring and other DevOps tools.<br>
 
