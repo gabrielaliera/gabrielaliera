@@ -1,21 +1,20 @@
 <h1 align="center"> Hi there, I'm Gaby Liera <img src="https://raw.githubusercontent.com/gabrielaliera/gabrielaliera/master/wave.gif" width="30px"></h1>
 
-🔭 I am a career-changer & *mostly* self-taught programmer who pivoted from international education to technology via a non-traditional course of degrees, coursework, & certifications. <br>
+🔭 I am software engineer drawn to the pursuit of tackling complex problems and constructing solutions that foster meaningful connections among people.</br>
 
-🌱 This summer, I am [MLH Fellow/Intern](https://fellowship.mlh.io/programs/site-reliability-engineering) in the Site Reliability Engineering track where I'm building a project that incorporates scripting, testing, containers, CI/CD, monitoring and other DevOps tools.<br>
+🌱 This summer, I was a [MLH Production Engineer Fellow (Meta)](https://fellowship.mlh.io/programs/site-reliability-engineering) where I built a project that incorporates scripting, testing, containers, CI/CD, monitoring and other SRE tools.<br>
 
-🏗️ Additionly, I’m serving as a [CodePath Tech Fellow](https://www.codepath.org/tech-fellow-program) where I peer mentor students on solving intereview questions using data structures like graphs, stacks, queue, hashmap, dynamic programming, etc <br>
+🏗️ Additionly, I served as a [CodePath Tech Fellow](https://www.codepath.org/tech-fellow-program) where I peer mentor students on solving intereview questions using data structures like graphs, stacks, queue, hashmap, dynamic programming, etc <br>
 
 💖 I am deeply passionate about empowering underrepresented and non-traditional talent to discover their rightful place in the field of technology.<br>
 
-💻 I am drawn to the pursuit of tackling complex problems and constructing solutions that foster meaningful connections among people.<br>
+💻 I am a career-changer & *mostly* self-taught programmer who pivoted from international education to technology via a non-traditional course of degrees, coursework, & certifications. <br>
 
 😄 Pronouns: She/Her <br>
 
 :airplane: Fun-Fact: I lived in Australia and Southeast Asia from 2016-2020.
  
 <h2>Connect with me:</h2> <a href="https://www.linkedin.com/in/gabrielaliera/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gabrielaliera LinkedIn" height="30" width="40" /></a>
-
 
 ## :hammer_and_wrench: Languages
 <div styles="display:flex">
